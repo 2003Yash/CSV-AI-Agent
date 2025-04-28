@@ -16,7 +16,7 @@ st.title("CSV Data Analysis Agent")
 st.markdown("Upload a CSV file and ask questions about your data")
 
 # Using the hardcoded API key from the original file
-GROQ_API_KEY = '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'
+GROQ_API_KEY = 'YOUR_GROQ_KEY'
 
 # Sidebar for model options only
 with st.sidebar:
